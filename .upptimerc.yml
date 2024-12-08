@@ -7,7 +7,7 @@ sites:
     url: https://umutsen2662.github.io/Scheduler/
   - name: GPA Calculator
     url: https://metugpacalculator.pythonanywhere.com/
-  - name: Mono
+  - name: Mono 
     url: https://mono-game.mooo.com/
 
 status-website:
