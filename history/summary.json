@@ -22,7 +22,7 @@
     "url": "https://metugpacalculator.pythonanywhere.com/",
     "icon": "https://icons.duckduckgo.com/ip3/metugpacalculator.pythonanywhere.com.ico",
     "slug": "gpa-calculator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 184,
     "timeMonth": 184,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-14": 0
+    }
   },
   {
     "name": "Mono",
