@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 88,
-    "timeWeek": 147,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "time": 121,
+    "timeDay": 45,
+    "timeWeek": 131,
+    "timeMonth": 121,
+    "timeYear": 121,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/metugpacalculator.pythonanywhere.com.ico",
     "slug": "gpa-calculator",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 169,
-    "timeDay": 146,
-    "timeWeek": 171,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 165,
+    "timeDay": 111,
+    "timeWeek": 160,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2024-12-14": 18
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 400,
-    "timeWeek": 488,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "time": 614,
+    "timeDay": 440,
+    "timeWeek": 472,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {}
   }
 ]
